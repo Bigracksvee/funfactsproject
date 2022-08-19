@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/funfactsprojects/static/css/main.2bc8b5dc.chunk.css",
+    "main.js": "/funfactsprojects/static/js/main.650cfade.chunk.js",
+    "main.js.map": "/funfactsprojects/static/js/main.650cfade.chunk.js.map",
+    "runtime-main.js": "/funfactsprojects/static/js/runtime-main.9527fdd1.js",
+    "runtime-main.js.map": "/funfactsprojects/static/js/runtime-main.9527fdd1.js.map",
+    "static/js/2.3f9745d2.chunk.js": "/funfactsprojects/static/js/2.3f9745d2.chunk.js",
+    "static/js/2.3f9745d2.chunk.js.map": "/funfactsprojects/static/js/2.3f9745d2.chunk.js.map",
+    "static/js/3.75ea7ba6.chunk.js": "/funfactsprojects/static/js/3.75ea7ba6.chunk.js",
+    "static/js/3.75ea7ba6.chunk.js.map": "/funfactsprojects/static/js/3.75ea7ba6.chunk.js.map",
+    "index.html": "/funfactsprojects/index.html",
+    "static/css/main.2bc8b5dc.chunk.css.map": "/funfactsprojects/static/css/main.2bc8b5dc.chunk.css.map",
+    "static/js/2.3f9745d2.chunk.js.LICENSE.txt": "/funfactsprojects/static/js/2.3f9745d2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/funfactsprojects/static/media/skateboard4.fb0f7c19.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9527fdd1.js",
+    "static/js/2.3f9745d2.chunk.js",
+    "static/css/main.2bc8b5dc.chunk.css",
+    "static/js/main.650cfade.chunk.js"
+  ]
+}
